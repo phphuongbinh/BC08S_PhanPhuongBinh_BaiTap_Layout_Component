@@ -1,0 +1,21 @@
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: rgba(33, 37, 41, 1) !important;
+}
+.fsz-4 {
+  font-size: 24px;
+}
+
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+  transform: translateY(-50px);
+  border-radius: 10px;
+}
+.feature svg {
+  height: 50px;
+}
